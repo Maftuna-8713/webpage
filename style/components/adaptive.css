@@ -1,0 +1,432 @@
+@media (max-width:1115px) {
+  .first h1{
+    font-size: 40px;
+    
+  }
+  .rectangle:last-child{
+    display: none;
+    
+  }
+  .krug{
+    align-items: center;
+  }
+  
+}
+@media (max-width:1048px) {
+    .big{
+       display: none;
+    }
+    
+}
+@media (max-width:1019px) {
+    .first h1{
+        font-size: 35px;
+        
+      }
+       .over{
+        width: 40%;
+       }
+      .btnn{
+        width: 180px;
+        height: 60px;
+      }
+      .can-right h1{
+        font-size: 35px;
+      }
+      .user{
+        padding:0 0 0 40px;
+      }
+      .can-right h1{
+        font-size: 30px;
+      }
+     
+
+      .can-right{
+        width: 50%;
+      }
+      .can-left{
+        width: 40%;
+      }
+      .yours h1{
+        font-size: 30px;
+      }
+      
+      .globalnetwork h1{
+        font-size: 30px;
+      }
+      
+      .sun{
+        width: 180px;
+        height: 60px;
+      }
+}
+@media (max-width:1003px) {
+    .over{
+        width: 45%;
+    }
+    .first h1{
+        font-size: 30px;
+        line-height: 60px;
+        margin-bottom: 0;
+        
+        
+      }
+      .first p{
+        font-size: 14px;
+        margin-top: 0;
+    
+      }
+      .btn p{
+        padding: 9px;
+        font-size: 16px;
+    }
+      .btn{
+        width: 130px;
+        height: 35px;
+    }
+
+    .btnn{
+        width: 160px;
+        height: 50px;
+      }
+      .btnn p{
+       font-size:14px ;
+      }
+      .can-right p{
+        font-size: 14px;
+      }
+      .can-right h1{
+        font-size: 30px;
+      }
+      .sun{
+        width: 160px;
+        height: 50px;
+      }
+      .sun p{
+        font-size: 14px;
+      }
+      .download P{
+        font-size: 14px;
+      }
+
+      }
+      @media (max-width:912px) {
+        .nav-item {
+            font-size: 14px;
+        }
+        .sing a{
+            font-size: 14px;
+        }
+        .btn p{
+            font-size: 14px;
+            padding: 9px;
+        }
+        .btn{
+            width: 110px;
+            height: 30px;
+        }
+
+        .first h1{
+            font-size: 25px;
+            line-height: 50px;
+            margin-bottom: 0;
+            
+            
+          }
+        .btnn{
+            width: 140px;
+            height: 40px;
+        }
+        .btnn p{
+            font-size: 14px;
+            padding: 8px;
+        }
+         .can-right h1{
+            font-size: 25px;
+         }
+         .yours h1{
+            font-size: 25px;
+          
+         }
+         .yours p{
+            font-size: 14px;
+         }
+         .free h6{
+            font-size: 16px;
+         }
+         .information p{
+            font-size: 12px;
+            padding-left: 15px;
+         }
+         .free h1{
+            font-size: 16px;
+         }
+         .plan-btn{
+            width: 110px;
+            height: 30px;
+           
+        }
+        .plan-btn p{
+            font-size: 12px;
+            padding: 9px;
+        }
+        .plans{
+            margin-top: 50px;
+        }
+        .globalnetwork h1 {
+            font-size: 25px;
+            line-height: 40px;
+        }
+        .globalnetwork p {
+            font-size: 14px;
+            line-height: 30px;
+        }
+        .map{
+            margin-top: 80px;
+        }
+        .otziv h2{
+            font-size: 14px;
+        }
+        .otziv p{
+            font-size: 12px;
+        }
+        .otziv{
+            width: 290px;
+            height: 150px;
+        }
+        .special h1{
+            font-size: 25px;
+        }
+        .special p{
+            font-size: 14px;
+        }
+        .sun{
+            width: 140px;
+            height: 40px;
+        }
+        .sun p{
+            font-size: 14px;
+            padding: 8px;
+        }
+        .engage p {
+            font-size: 14px;
+            
+        }
+        .download h1{
+            font-size: 14px;
+        }
+        .download p{
+            font-size: 12px;
+        }
+        .fa-brands{
+           
+            padding: 5px;
+            
+        }
+       
+         }
+@media (max-width:845px) {
+  .download-inner{
+    margin-right: 40px;
+  }
+  .download{
+    padding-left: 30px;
+  }
+  
+}
+@media (max-width:770px) {
+   .nav{
+    display: none;
+  } 
+ .ulss-two{
+  padding-right: 30px;
+ }
+/* .rectangle:last-child{
+  flex-wrap: wrap;
+} */
+.poland{
+  width: 300px;
+}
+.now{
+ align-items: center;
+
+}
+
+}
+@media (max-width:602px) {
+
+.header-logo img{
+  width: 120px;
+}
+.info-inner{
+  margin-top: 50px;
+}
+
+
+  .first h1 {
+    font-size: 20px;
+    line-height: 35px;
+    margin-bottom: 0;
+}
+
+.first p {
+  font-size: 12px;
+  margin-top: 0;
+  line-height: 20px;
+  margin-top: 10px;
+}
+.btnn p {
+  font-size: 12px;
+  padding: 4px;
+}
+.btnn{
+  width: 120px;
+  height: 30px;
+}
+
+.user img{
+  padding: 10px;
+  width: 12px;
+  height: 12px;
+}
+.uls {
+  margin-top: 70px;
+  height: 80px;
+  padding-top: 15px;
+
+}
+
+.user-info h1{
+  font-size: 14px;
+}
+.user-info p{
+  font-size: 12px;
+}
+
+
+.can-right h1 {
+  font-size: 20px;
+  line-height: 35px;
+}
+.can-right p{
+  font-size: 12px;
+}
+
+.yours h1 {
+  font-size: 20px;
+  margin-top: 70px;
+}
+.yours p {
+  font-size: 12px;
+}
+.free h6 {
+  font-size: 14px;
+}
+.globalnetwork h1 {
+  font-size: 20px;
+  line-height: 35px;
+}
+.rectangle:nth-child(2){
+  display: none;
+}
+.otziv{
+  margin-left: 100px;
+}
+.krug{
+  margin-left: 40%;
+}
+.special h1 {
+  font-size: 20px;
+  line-height: 35px;
+  margin-bottom: 10px;
+}
+.special p {
+  font-size: 12px;
+}
+.sun{
+  width: 110px;
+  height: 30px;
+}
+.sun p {
+  font-size: 12px;
+  padding: 4px;
+}
+.moon {
+  width: 45%;
+  padding: 30px;
+}
+
+.engage img{
+  width: 120px;
+}
+.engage p {
+  font-size: 12px;
+}
+.product-inner{
+  flex-wrap: wrap;
+
+}
+ .energy{
+  width: 90%;
+  text-align: center;
+} 
+.download-inner{
+ margin-left: 90px;
+}
+ 
+
+}
+@media (max-width:550px) {
+  .user {
+    padding: 0 0 0 20px;
+}
+.information p {
+  font-size: 10px;
+  padding-left: 5px;
+}
+.plan-btn p {
+  font-size: 12px;
+  padding: 5px;
+}
+.plan-btn {
+  width: 100px;
+  height: 25px;
+}
+.free h1 {
+  font-size: 14px;
+}
+.globalnetwork p {
+  font-size: 12px;
+  line-height: 25px;
+}
+.map {
+  margin-top: 50px;
+}
+
+
+.oval {
+  width: 25px;
+  height: 8px;
+ 
+}
+.small {
+  width: 8px;
+  height: 8px;
+ 
+}
+
+.btn {
+  width: 100px;
+  height: 25px;
+}
+.btn  p{
+  padding: 6px;
+  font-size: 12px;
+}
+.now{
+  padding: 20px;
+}
+}
+
+
+       

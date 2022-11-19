@@ -1,0 +1,268 @@
+body{
+    background-color: #fdfbfb;
+}
+.navbar{
+    padding-top: 50px;
+    display: flex;
+    align-items:center ;
+    justify-content: space-between;
+   
+}
+.nav-item{
+    color:#4F5665;
+    text-decoration: none;
+    font-size: 16px;
+    padding-right: 10px;
+    font-weight: 400;
+    
+}
+.nav a:hover{
+    color: #F53838;
+    transition: .4s;
+ 
+}
+.header-buttons{
+    align-items: center;
+    display: flex;
+}
+
+
+
+.sing a{
+    color:#4F5665;
+    text-decoration: none;
+    font-size: 16px;
+    
+    font-weight: 500;
+}
+.sing a:hover{
+    color: #F53838;
+    transition: .4s;
+    text-decoration: underline;
+}
+
+.btn{
+    border-radius: 50px;
+    border: 2px solid #F53855; 
+    width: 150px;
+    height: 47px;
+    background-color: #fff;
+    margin-left: 30px;  
+   
+   
+}
+.btn p{
+    text-align: center;
+    padding: 15px;
+    color: #F53855;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.first h1{
+    font-size: 53px;
+    color: #0B132A;
+    line-height: 70px;
+    font-weight: 500;
+    /* width: 555px;  */
+    /* height: 140px;  */
+
+
+}
+span{
+    color: #000;
+   
+   
+}
+.over{
+    width: 45%;
+   
+}
+.first p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+   
+    margin-top: 20px;
+    color:#4F5665;
+    
+
+}
+.btnn  {
+    width: 250px;
+    height: 60px;
+    background: #F53838;
+    border-radius: 10px;
+    margin-top: 40px;
+   
+    
+}
+.btnn p{
+    text-align: center;
+    padding: 15px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 25px;
+ 
+}
+
+.first-img{
+    width: 45%;
+}
+.first-img img{
+    width: 100%;  
+   
+}
+.info-inner{
+ 
+    display: flex;
+	justify-content: space-between;
+    align-items: center;
+    margin-top: 90px; 
+  
+}
+
+
+.btn:hover{
+    background-color: #F53838;
+    transition: .4s;
+    
+}
+.btnn:hover{
+    transition: .4s;
+    background-color: #fff;
+    border: 1px solid #F53838;
+    font-size: 18px;
+}
+.btnn p:hover{
+    color: #F53838;
+
+}
+.btn p:hover{
+    color: #fff;
+
+}
+
+
+
+
+.modal-window{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.modal-content{
+    width: 500px;
+    height: 260px;
+    background-color: #fff;
+    position: relative;
+    padding: 15px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid  #F53855 ;
+    border-radius: 25px;
+}
+.modal-content button:first-child{
+    position: absolute;
+    right: 20px;
+    top: 15px;
+    font-size: 18px;
+    border-radius: 50px;
+    background-color: #F53855;
+    color: #fff;
+    border: 1px solid  #F53855;
+}
+
+.modal-content input{
+    width: 100%;
+    margin-top: 30px;
+    /* margin-bottom: 30px; */
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 35px;
+    border: 1px solid #F53855;
+}
+
+.modal-content button:last-child{
+    font-size: 18px;
+    border-radius: 50px;
+    margin-top: 30px;
+    width: 150px;
+    height: 42px;
+    background-color: #F53855;
+    color: #fff;
+    border: 1px solid  #F53855 ;
+   
+}
+
+.modal-windowtwo{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.modal-contenttwo{
+    width: 500px;
+    height: 400px;
+    background-color: #fff;
+    position: relative;
+    padding: 15px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid  #F53855 ;
+    border-radius: 25px;
+}
+.modal-contenttwo button:first-child{
+    position: absolute;
+    right: 20px;
+    top: 15px;
+    font-size: 18px;
+    border-radius: 50px;
+    background-color: #F53855;
+    color: #fff;
+    border: 1px solid  #F53855;
+}
+
+.modal-contenttwo input{
+    width: 100%;
+    margin-top: 30px;
+    /* margin-bottom: 30px; */
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 35px;
+    border: 1px solid #F53855;
+}
+
+.modal-contenttwo button:last-child{
+    font-size: 18px;
+    border-radius: 50px;
+    margin-top: 30px;
+    width: 150px;
+    height: 42px;
+    background-color: #F53855;
+    color: #fff;
+    border: 1px solid  #F53855 ;
+   
+}

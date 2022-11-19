@@ -1,0 +1,72 @@
+.engage p{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #707580;
+    padding-top: 20px;
+}
+.energy{
+    
+    width: 45%;
+    
+}
+span .engage{
+    color: #4F5665;
+}
+.fa-brands{
+    color: #F53838ed;
+    background-color: #fff;
+    border: 1px solid #F53838;
+    border-radius: 50px;
+    padding: 8px;
+    margin-right: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.two {
+    margin-bottom: 50px;
+}
+
+.product-inner{
+    display: flex;
+     justify-content: space-between;
+  
+   
+     
+ }
+.download-inner{
+     display: flex;
+     justify-content: space-between;
+    
+     
+        
+ }
+.download{
+     padding-left: 100px; 
+   
+     
+ }
+    
+    
+
+.download h1{
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 500;
+    color: #0b123a;
+}
+.download p{
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #4f5665;
+}
+.download p:hover{
+    color: #F53838;
+    transition: .4s;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.icons{
+    color: #F53838;
+}

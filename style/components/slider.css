@@ -1,0 +1,16 @@
+.slick-prev{
+    left: 10px;
+    z-index: 2;
+    
+}
+.slick-next{
+    right: 10px;
+    z-index: 2;
+}
+.slick-arrow{
+    background-color: red;
+}
+.slider-window {
+    width: 100%;
+    height: 350px;
+}
